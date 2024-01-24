@@ -1,0 +1,6 @@
+S#1,Haruma,Fujiwara,37700900202,harumafujiwara643@gmail.com,945 Rolls Crescent,MI15 5JX,J#0,Full-Time
+S#2,Draken,Goro,01214960812,drakengoro959@outlook.com,9455 Bagot Street,UL15 2HA,J#1,Full-Time
+S#3,Josiah,Tang,72079460243,josiahtang245@gmail.com,9 Highfield Road,IG53 6UB,J#3,Full-Time
+S#4,Kira,Frey,31510960961,kirafrey525@gmail.com,109 Windsor Road,DA74 5ZI,J#4,Part-Time
+S#5,Kai,Takako,61134960434,kaitakako7250@icloud.com,93 Queensway,WC56 7ZN,J#2,Full-Time
+S#6,Bryce,Otto,94729647384,bryceotto959@outlook.com,46 The Grove,NW53 7CU,J#5,Full-Time

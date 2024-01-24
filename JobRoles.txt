@@ -1,0 +1,6 @@
+J#0,Manager,'The boss who organises staff shifts and recruits new staff.'
+J#1,Chef,'An expert on cooking techniques and one who controls the kitchen.'
+J#2,Dishwasher,'One who maintains a sanitised kitchen and cleans plates.'
+J#3,Waiter/Waitress,'Takes and serves orders from customers with great service.'
+J#4,Receptionist,'Manages customer bookings and answers phone calls.'
+J#5,Driver,'Transports and delivers food according to customer allocated times.'

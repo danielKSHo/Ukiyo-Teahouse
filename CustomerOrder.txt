@@ -1,0 +1,38 @@
+B#1,Chicken Gyoza,6.00,1,6.00,Okonomiyaki,12.75,1,12.75,Hanami Dango,2.75,1,2.75,Bubble Tea,4.50,1,4.50,26.00,S#3
+B#2,Chicken Gyoza,6.00,2,12.00,Okonomiyaki,12.75,1,12.75,Mango Mochi,2.25,3,6.75,Bubble Tea,4.50,2,9.00,40.50,S#5
+B#3,Prawn Tempura,3.50,2,7.00,Chicken Katsu Curry,11.50,1,11.50,Mango Mochi,2.25,2,4.50,Water,1.00,1,1.00,24.00,S#1
+B#4,Miso Soup,1.75,1,1.75,Yasai Yaki Udon,13.25,1,13.25,Hanami Dango,2.75,1,2.75,Bubble Tea,4.50,1,4.50,22.25,S#5
+B#5,Miso Soup,1.75,1,1.75,Eel Rice Bowl,14.00,1,14.00,Hanami Dango,2.75,2,5.50,Sake,3.50,1,3.50,21.25,S#2
+B#6,Chicken Gyoza,6.00,1,6.00,Okonomiyaki,12.75,1,12.75,Hanami Dango,2.75,1,2.75,Bubble Tea,4.50,1,4.50,26.00,S#2
+B#7,Edamame,2.50,1,2.50,Okonomiyaki,12.75,1,12.75,Hanami Dango,2.75,1,2.75,Bubble Tea,4.50,1,4.50,22.50,S#3
+B#8,Edamame,2.50,1,2.50,Eel Rice Bowl,14.00,1,14.00,Mango Mochi,2.25,1,2.25,Bubble Tea,4.50,1,4.50,23.25,S#2
+B#9,Chicken Gyoza,6.00,1,6.00,Yasai Yaki Udon,13.25,1,13.25,Hanami Dango,2.75,1,2.75,Bubble Tea,4.50,1,4.50,26.50,S#5
+B#10,Chicken Gyoza,6.00,3,18.00,Mushroom Ramen,11.25,1,11.25,Hanami Dango,2.75,2,5.50,Bubble Tea,4.50,1,4.50,39.25,S#3
+B#11,Edamame,2.50,2,5.00,Okonomiyaki,12.75,2,25.50,Hanami Dango,2.75,0,0.00,Bubble Tea,4.50,2,9.00,39.50,S#4
+B#12,Edamame,2.50,2,5.00,Eel Rice Bowl,14.00,1,14.00,Hanami Dango,2.75,1,2.75,Bubble Tea,4.50,1,4.50,26.25,S#2
+B#13,Edamame,2.50,2,5.00,Okonomiyaki,12.75,1,12.75,Hanami Dango,2.75,1,2.75,Water,1.00,2,2.00,22.50,S#2
+B#14,Edamame,2.50,2,5.00,Mushroom Ramen,11.25,1,11.25,Hanami Dango,2.75,1,2.75,Bubble Tea,4.50,1,4.50,23.50,S#5
+B#15,Salmon Teriyaki,3.75,1,3.75,Yasai Yaki Udon,13.25,1,13.25,Red Bean Soup,1.75,2,3.50,Water,1.00,2,2.00,22.50,S#2
+B#16,Miso Soup,1.75,1,1.75,Eel Rice Bowl,14.00,1,14.00,Mango Mochi,2.25,2,4.50,Sake,3.50,1,3.50,23.75,S#5
+B#17,Edamame,2.50,1,2.50,Okonomiyaki,12.75,1,12.75,Hanami Dango,2.75,1,2.75,Water,1.00,1,1.00,19.00,S#2
+B#18,Edamame,2.50,1,2.50,Okonomiyaki,12.75,1,12.75,Hanami Dango,2.75,2,5.50,Water,1.00,3,3.00,23.75,S#3
+B#19,Edamame,2.50,1,2.50,Okonomiyaki,12.75,1,12.75,Hanami Dango,2.75,1,2.75,Water,1.00,3,3.00,21.00,S#1
+B#20,Chicken Gyoza,6.00,1,6.00,Eel Rice Bowl,14.00,1,14.00,Hanami Dango,2.75,2,5.50,Water,1.00,3,3.00,28.50,S#4
+B#21,Edamame,2.50,1,2.50,Okonomiyaki,12.75,1,12.75,Hanami Dango,2.75,1,2.75,Bubble Tea,4.50,1,4.50,22.50,S#3
+B#22,Edamame,2.50,1,2.50,Okonomiyaki,12.75,1,12.75,Mango Mochi,2.25,1,2.25,Sake,3.50,1,3.50,21.00,S#1
+B#23,Takoyaki,8.00,2,16.00,Okonomiyaki,12.75,1,12.75,Mango Mochi,2.25,2,4.50,Bubble Tea,4.50,1,4.50,37.75,S#5
+B#24,Chicken Gyoza,6.00,2,12.00,Okonomiyaki,12.75,1,12.75,Hanami Dango,2.75,2,5.50,Water,1.00,4,4.00,34.25,S#5
+B#25,Chicken Gyoza,6.00,3,18.00,Okonomiyaki,12.75,1,12.75,Mango Mochi,2.25,2,4.50,Bubble Tea,4.50,2,9.00,44.25,S#2
+B#26,Edamame,2.50,2,5.00,Okonomiyaki,12.75,1,12.75,Hanami Dango,2.75,2,5.50,Bubble Tea,4.50,2,9.00,32.25,S#4
+B#27,Takoyaki,8.00,1,8.00,Okonomiyaki,12.75,2,25.50,Anmitsu,4.25,4,17.00,Sake,3.50,2,7.00,57.50,S#1
+B#28,Onigiri,2.25,2,4.50,Eel Rice Bowl,14.00,1,14.00,Mango Mochi,2.25,2,4.50,Green Tea,1.50,3,4.50,27.50,S#3
+B#29,Onigiri,2.25,2,4.50,Yasai Yaki Udon,13.25,1,13.25,Mango Mochi,2.25,2,4.50,Sake,3.50,3,10.50,32.75,S#3
+B#30,Chicken Gyoza,6.00,2,12.00,Mushroom Ramen,11.25,3,33.75,Hanami Dango,2.75,2,5.50,Water,1.00,2,2.00,53.25,S#1
+B#31,Chicken Gyoza,6.00,2,12.00,Chicken Katsu Curry,11.50,1,11.50,Matcha Ice Cream,2.50,2,5.00,Sake,3.50,1,3.50,32.00,S#1
+B#32,Takoyaki,8.00,2,16.00,Eel Rice Bowl,14.00,2,28.00,Matcha Ice Cream,2.50,1,2.50,Water,1.00,2,2.00,48.50,S#6
+B#33,Takoyaki,8.00,1,8.00,Okonomiyaki,12.75,2,25.50,Red Bean Soup,1.75,1,1.75,Sake,3.50,2,7.00,42.25,S#3
+B#34,Salmon Teriyaki,3.75,1,3.75,Okonomiyaki,12.75,2,25.50,Hanami Dango,2.75,1,2.75,Water,1.00,3,3.00,35.00,S#2
+B#35,Chicken Gyoza,6.00,1,6.00,Chicken Katsu Curry,11.50,2,23.00,Mango Mochi,2.25,1,2.25,Water,1.00,2,2.00,33.25,S#6
+B#36,Takoyaki,8.00,1,8.00,Okonomiyaki,12.75,1,12.75,Mango Mochi,2.25,2,4.50,Sake,3.50,2,7.00,32.25,S#5
+B#37,Chicken Gyoza,6.00,2,12.00,Chicken Katsu Curry,11.50,1,11.50,Mango Mochi,2.25,1,2.25,Sake,3.50,1,3.50,29.25,S#1
+B#38,Edamame,2.50,1,2.50,Eel Rice Bowl,14.00,1,14.00,Hanami Dango,2.75,1,2.75,Water,1.00,1,1.00,20.25,S#5

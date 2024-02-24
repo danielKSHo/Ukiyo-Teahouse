@@ -17,8 +17,7 @@ import random
 
 #####Adding "Start" Screen#####
 def Start():
-    Start = Tk()
-    app = StartWindow(Start)
+    StartWindow(Tk())
 
 #####Start Screen###################################################################################################################
 class StartWindow:
@@ -64,6 +63,7 @@ class StartWindow:
             #Menu
         self.startMenuButton = Button(self.startFrame, text = "Menu", padx = 0, pady = 60, font = ("Tahoma", 28), command = self.Menu)
         self.startMenuButton.grid(row = 0, column = 3, rowspan = 2, padx = 10, pady = 10)
+        self.startScreen.mainloop()
 
 #####Adding "Login" Screen#####
     def Login(self):
